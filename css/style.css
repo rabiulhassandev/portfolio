@@ -3146,7 +3146,7 @@ input[type=number] {
 	}
 
 	.dizme_tm_header {
-		padding: 15px 0
+		padding: 0 0
 	}
 
 	.dizme_tm_header.animate {
@@ -3158,8 +3158,7 @@ input[type=number] {
 	}
 
 	.dizme_tm_header .logo img {
-		max-width: 110px;
-		max-height: 70px
+		max-height: 60px;
 	}
 
 	.dizme_tm_header .menu ul li {
@@ -3207,7 +3206,7 @@ input[type=number] {
 	}
 
 	.dizme_tm_hero .avatar img {
-		max-height: 400px
+		/* max-height: 400px */
 	}
 
 	.dizme_tm_hero .skills {
