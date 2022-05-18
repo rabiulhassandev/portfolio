@@ -1700,7 +1700,7 @@ h6 {
 	height: auto;
 	clear: both;
 	float: left;
-	padding-top: 178px;
+	padding-top: 170px;
 	margin-bottom: 160px;
 	position: relative
 }
@@ -3952,4 +3952,11 @@ input[type=number] {
 	.dizme_tm_contact {
 		margin-bottom: 120px
 	}
+}
+
+
+/* Rabiul Hassan */
+
+img.modal-img{
+	opacity: 1 !important; border-radius: 5px; box-shadow: 0px 0px 15px #00000026;
 }
